@@ -1,2 +1,2 @@
 # GameDevelopSomeShare
-游戏开发中的一些分享
+分享游戏开发中碰到到的一些有意思的事
